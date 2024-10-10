@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qkolawole
+- 👋 Hi, I’m Qudus Kolawole
 - 👀 I’m interested in Business Intelligence and Data space as a whole
 - 🌱 I’m currently learning Advance Python for Data Analysis
 - 💞️ I’m looking to collaborate on projects
